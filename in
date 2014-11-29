@@ -1,0 +1,13 @@
+CONST
+        x = 3.4;
+        y = FALSE;
+VAR
+        a,b: INTEGER;
+        c: REAL;
+BEGIN
+        if x < 4 then
+           a := 10
+        else
+           a := 2
+        end
+END prog.
